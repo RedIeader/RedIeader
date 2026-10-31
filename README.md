@@ -1,4 +1,5 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=PIanetIords&label=🪖&color=Ff0000) -> sign my ata [𝗔𝘁𝗮𝗕𝗼𝗼𝗸](https://mapiccs.atabook.org) <img width="320" height="234" alt="1000167342" src="https://github.com/user-attachments/assets/10b38dc9-a9dc-4fa4-8009-1d973b8d7e94" />
+
 
 <!--
 **RedIeader/RedIeader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
